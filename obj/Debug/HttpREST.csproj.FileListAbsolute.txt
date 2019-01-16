@@ -1,0 +1,6 @@
+C:\Users\ShouHu\source\repos\HttpREST\HttpREST\bin\Debug\HttpREST.dll
+C:\Users\ShouHu\source\repos\HttpREST\HttpREST\bin\Debug\HttpREST.pdb
+C:\Users\ShouHu\source\repos\HttpREST\HttpREST\obj\Debug\HttpREST.csproj.CoreCompileInputs.cache
+C:\Users\ShouHu\source\repos\HttpREST\HttpREST\obj\Debug\HttpREST.dll
+C:\Users\ShouHu\source\repos\HttpREST\HttpREST\obj\Debug\HttpREST.pdb
+C:\Users\ShouHu\source\repos\HttpREST\HttpREST\obj\Debug\HttpREST.csprojAssemblyReference.cache

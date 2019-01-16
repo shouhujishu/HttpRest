@@ -1,0 +1,5 @@
+C:\Users\ShouHu\source\repos\HttpREST\HttpREST\bin\Release\HttpREST.dll
+C:\Users\ShouHu\source\repos\HttpREST\HttpREST\bin\Release\HttpREST.pdb
+C:\Users\ShouHu\source\repos\HttpREST\HttpREST\obj\Release\HttpREST.csproj.CoreCompileInputs.cache
+C:\Users\ShouHu\source\repos\HttpREST\HttpREST\obj\Release\HttpREST.dll
+C:\Users\ShouHu\source\repos\HttpREST\HttpREST\obj\Release\HttpREST.pdb
